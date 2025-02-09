@@ -1,6 +1,6 @@
 # bmi-calculator
 
-An application which calculates the body mass index (BMI).
+An application which calculates the body mass index (BMI). The application was developed in Visual Studio Code and the used Python version was `3.12.6`.
 
 ## Setup
 
@@ -19,6 +19,10 @@ Activate the `.venv`:
 Install the requirements:
 
     pip install -r requirements.txt
+
+Run the application using the command:
+
+    python main.py
 
 Finally, deactivate the `.venv` as follows:
 
